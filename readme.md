@@ -14,7 +14,7 @@ disini saya mengunakan konsep :
 
 penampakan :
 
-![image-20200804155142518](C:\Users\andis\AppData\Roaming\Typora\typora-user-images\image-20200804155142518.png)
+![image-20200804155142518](src\image-20200804155142518.png)
 
 ## 2. Kalkulator 
 
@@ -38,4 +38,4 @@ fitur :
 - volume prisma
 ```
 
-![image-20200804160020497](C:\Users\andis\AppData\Roaming\Typora\typora-user-images\image-20200804160020497.png)
+![image-20200804160020497](src\image-20200804160020497.png)
